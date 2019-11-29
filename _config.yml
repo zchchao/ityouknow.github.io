@@ -18,8 +18,8 @@ favicon: favicon.png
 repository: zchchao/zchchao.github.io
 github_url: https://github.com/zchchao
 cnblog_url: https://www.cnblogs.com/zchchao
-#url: http://www.ityouknow.com
-#enforce_ssl: ityouknow.com
+url: http://www.ityouknow.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
@@ -167,10 +167,10 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: zchchao
+    username: ityouknow
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: zchchao
+    owner: ityouknow
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
